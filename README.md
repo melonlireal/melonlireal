@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melonlireal&show_icons=true&theme=tokyonight&hide=contribs,prs,issues,commits&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melonlireal&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ### Skills
 
