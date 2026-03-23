@@ -1,4 +1,4 @@
-## Hi there, Hans here👋
+## Hi there, I'm Hans👋
 
 ### About Me
 
