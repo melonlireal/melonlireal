@@ -8,9 +8,9 @@ I am a 3rd year student studying at University of Toronto on Computer Science sp
 
 Check out some cool projects I have been working on:
 
-- **[computer-graphic-projects](https://github.com/melonlireal/computer-graphic-projects)** — A collection of computer graphics projects (C++/C/Fortran; includes CUDA/CMake tooling).
-- **[Cosmic_Barage_UBISOFT_NEXT_2026](https://github.com/melonlireal/Cosmic_Barage_UBISOFT_NEXT_2026)** — Submission to the UBISOFT NEXT 2026 programming challenge (C++).
-- **[godot-galframe---auto-visual-novel-generator](https://github.com/melonlireal/godot-galframe---auto-visual-novel-generator)** — A Godot framework to create visual novels for people with zero coding experience (GDScript).
+- **[godot-galframe---auto-visual-novel-generator](https://github.com/melonlireal/godot-galframe---auto-visual-novel-generator)** — A Godot framework to create visual novels for people with zero coding experience.
+- **[computer-graphic-projects](https://github.com/melonlireal/computer-graphic-projects)** — A collection of computer graphics projects
+- **[Cosmic_Barage_UBISOFT_NEXT_2026](https://github.com/melonlireal/Cosmic_Barage_UBISOFT_NEXT_2026)** — Submission to the UBISOFT NEXT 2026 programming challenge.
 
 ### Skills
 
